@@ -1,4 +1,6 @@
 # 🦄 UniswapCalculator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Funiswap.fish.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Funiswap.fish?ref=badge_shield)
+
 
 Uniswap V3 Fee Calculator, Visit: [Poolfish](https://poolfish.xyz/calculators/uniswap), [@poolfish_xyz](https://twitter.com/poolfish_xyz)
 
@@ -46,3 +48,7 @@ Uniswap V3 Fee Calculator, Visit: [Poolfish](https://poolfish.xyz/calculators/un
 See more on how the [Uniswap Calculator works](https://poolfish.xyz/blog/how-it-works).
 
 Crafted with 🧡 by [@noahwbragg](https://twitter.com/noahwbragg). Previously [@chunrapeepat](https://twitter.com/chunrapeepat).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Funiswap.fish.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Funiswap.fish?ref=badge_large)
